@@ -1,0 +1,2 @@
+//tuple is a fixed length array in TS where each element has it's own perticuler type
+let user: [string, number] = ['Rezwan', 22]; // we can store only 2 element in the array because we have already decleare the data types of the sored element in the array
